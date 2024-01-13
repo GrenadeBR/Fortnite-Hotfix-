@@ -1,0 +1,9 @@
+{
+   "new_hotfixes": [
+      {
+         "ID": "CosmeticsGatingBlueprintLibrary,LobbyCharacterCosmeticRatingRestriction",
+         "Hotfix": "Some of your character's items can't be equipped in experiences of this rating."
+      }
+   ],
+   "modified_hotfixes": []
+}
