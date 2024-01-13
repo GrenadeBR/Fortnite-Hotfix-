@@ -1,0 +1,5 @@
+- Python: Install latest Python from https://www.python.org/downloads/ 
+
+Libraries:
+- Requests: Simply open up Terminal and type in "pip install requests"
+- Colorama: Open terminal and type in "pip install colorama"
