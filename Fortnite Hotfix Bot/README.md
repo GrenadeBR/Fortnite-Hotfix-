@@ -3,6 +3,8 @@
 - #### You Should Edit { yourTokens.json } With Your Twitter Tokens To Post Updates On Twitter (REMOVED)
 - #### Need [Twitter Developer account](https://developer.twitter.com/en/portal/dashboard) `[The Bot Won't Work Without Twitter Tokens]` (REMOVED)
 
+# Added: 
+- Now the new/modified hotfixes are dumped to a file called generated_data.json, it is seperated by brackets to identify new from modified!
 
 # Example :
 ### CMD :
